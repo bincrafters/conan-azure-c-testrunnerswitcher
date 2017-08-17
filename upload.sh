@@ -1,0 +1,1 @@
+conan upload --all --remote bincrafters Azure-C-Testrunnerswitcher/1.1.0@bincrafters/testing
